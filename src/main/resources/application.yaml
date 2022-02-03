@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /selfManagement
+  port: 8080
